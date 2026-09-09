@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+.vscode
+__pycache__
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+*.jsonl
+*.log
+.env
+.env.*
+tests
