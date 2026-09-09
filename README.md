@@ -1,4 +1,4 @@
-# Risk Agent Harness · EvoAgent PR Reviewer
+# Risk Agent Harness Reviewer
 
 [![CI](https://github.com/31lis/risk-agent-harness/actions/workflows/ci.yml/badge.svg)](https://github.com/31lis/risk-agent-harness/actions/workflows/ci.yml)
 
