@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/31lis/risk-agent-harness/actions/workflows/ci.yml/badge.svg)](https://github.com/31lis/risk-agent-harness/actions/workflows/ci.yml)
 
-一个面向 GitHub Pull Request 的可扩展 Agent 审查与评测框架。项目将多 Agent 代码审查、自动修复、版本化评测、运行时记忆和生产级任务队列整合为一套可本地运行、可容器部署的服务。
+一个面向工业代码审查的可扩展 Agent 审查与评测框架。项目将多 Agent 代码审查、自动修复、版本化评测、运行时记忆和生产级任务队列整合为一套可本地运行、可容器部署的服务。
 
 > 安全说明：仓库不包含 API Key、访问令牌、本地数据库、虚拟环境或个人编辑器配置。所有密钥只应通过环境变量或未纳入版本控制的 `.env` 文件提供。
 
